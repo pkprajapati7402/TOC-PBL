@@ -143,7 +143,7 @@ export default function Home() {
       <div className={styles.content + " container border border-secondary"}>
         <h1 style={{ textShadow: "0.1rem 0.1rem #aaa" }}><b>Regular Expresion to DFA Online</b></h1>
         <h3>Parse tree method</h3>
-        <Link target="_blank" className="text-decoration-none" href="https://github.com/deidara047/regular-expression-to-dfa-parse-tree-method-online"><FontAwesomeIcon icon={faGithub} /> by Deidr047</Link>
+        <Link target="_blank" className="text-decoration-none" href="https://github.com/pkprajapati7402/toc-pbl"><FontAwesomeIcon icon={faGithub} /> by Deidr047</Link>
         <div className="card mt-3" style={{ backgroundColor: "#eee" }}>
           <div className="card-body">
             <div>
@@ -177,7 +177,7 @@ export default function Home() {
                 If you have questions about the rules of this method, please visit this GeeksForGeeks webpage (GeeksForGeeks you are the best :D):
               </p>
               <Link target="_blank" href="https://www.geeksforgeeks.org/regular-expression-to-dfa/">https://www.geeksforgeeks.org/regular-expression-to-dfa/</Link>
-              <p className="mt-2">If you need further information about how this application works, <Link target="_blank" href="https://github.com/deidara047/regular-expression-to-dfa-parse-tree-method-online">go to this site.</Link></p>
+              <p className="mt-2">If you need further information about how this application works, <Link target="_blank" href="https://github.com/pkprajapati7402/TOC-PBL">go to this site.</Link></p>
             </div>
           </div>
         </div>
