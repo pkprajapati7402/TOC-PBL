@@ -143,7 +143,7 @@ export default function Home() {
       <div className={styles.content + " container border border-secondary"}>
         <h1 style={{ textShadow: "0.1rem 0.1rem #aaa" }}><b>Regular Expresion to DFA Online</b></h1>
         <h3>Parse tree method</h3>
-        <Link target="_blank" className="text-decoration-none" href="https://github.com/pkprajapati7402/toc-pbl"><FontAwesomeIcon icon={faGithub} /> by Deidr047</Link>
+        <Link target="_blank" className="text-decoration-none" href="https://github.com/pkprajapati7402/toc-pbl"><FontAwesomeIcon icon={faGithub} /> by pkprajapati7402</Link>
         <div className="card mt-3" style={{ backgroundColor: "#eee" }}>
           <div className="card-body">
             <div>
